@@ -40,4 +40,3 @@
           (rest '())
           (catch IllegalStateException e
             "No dice!"))))
-
